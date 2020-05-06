@@ -26,6 +26,7 @@ public class SimpleWindow extends JFrame{
         textArea.setText("Juvia loves Gray-sama");
         textArea.setEditable(false);
        
+        
         //var spane = new JScrollPane(textArea);
         
         //
